@@ -1,1 +1,1 @@
-1. usnig git add. to add all your works to be pushed \n 2. git status to check the status of your added works \n 3. git commit -m 'commit' to commit your work \n 4. git push to upload your work to Github
+git pull
